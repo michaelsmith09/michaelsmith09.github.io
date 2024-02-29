@@ -8,6 +8,9 @@ body {
     overflow-x:hidden;
     scroll-behavior: smooth;
 }
+h2 {
+    font-size: 35px;
+}
 #loading {
     width: 100vw;
     height: 100vh;
@@ -50,6 +53,7 @@ header table {
 }
 #navigation {
     width:80%;
+    font-size: 18px;
 }
 #magnify {
     width:100vw;
