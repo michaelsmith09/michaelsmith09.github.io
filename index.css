@@ -235,12 +235,12 @@ header table {
     width:90vw;
     padding:6vh 4vw;
     font-weight:bold;
-    font-size: 22px;
+    font-size: 20px;
 }
 #bio h1 {
     padding:5px 0px;
     border-bottom:4px solid rgb(88, 203, 177);
-    width:9%;
+    width:8%;
 }
 #contact {
     width:92vw;
