@@ -264,7 +264,6 @@ header table {
     justify-content: center;
     align-items: center;
     flex-direction: row;
-    /* border: 2px solid red; */
 }
 #inner_div table{
     width:100%;
